@@ -1,4 +1,8 @@
 # pd2-sudoku
+
+Description: https://slides.com/hmkrl/2019-pd2-project
+The code is not good enough. Use it carefully.
+
 ## Input / Output
 ### Generate
 1. Output sudoku problem when execution
